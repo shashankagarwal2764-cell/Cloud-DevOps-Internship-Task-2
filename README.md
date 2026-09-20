@@ -34,3 +34,15 @@ Welcome to the **Task 2** repository for the Cloud & DevOps Internship. This pro
 |                    |  CloudWatch & Cost Est. |                    |
 |                    +-------------------------+                    |
 +-------------------------------------------------------------------+
+📁 Repository StructurePlaintextCloud-DevOps-Internship/
+├── screenshots/
+│   ├── cloudwatch-alarm.png.png
+│   ├── cost-estimation.png.png
+│   ├── ec2-running.png.png
+│   ├── iam-mfa-config.png.png
+│   ├── nginx-welcome.png.png
+│   ├── s3-bucket.png.png
+│   ├── security-groups.png.png
+│   └── vpc-subnets.png.png
+└── README.md
+🖼️ Deliverables & Proof of ImplementationFeature / TaskScreenshotVPC & Subnets ConfigurationEC2 Instance DeploymentNginx Web Server VerificationSecurity Groups SetupIAM & MFA SecurityS3 Storage BucketCloudWatch Alarm ConfigurationCost Estimation & Management🚀 Key Highlights & LearningsNetworking: Designed public and private subnets with custom routing rules within a dedicated VPC.Compute: Provisioned Linux EC2 instances, attached appropriate security groups, and hosted an Nginx HTTP server.Security & Access Control: Enabled Multi-Factor Authentication (MFA) and defined least-privilege IAM policies.Monitoring & Cost Control: Set up CloudWatch alarms for resource metrics and reviewed AWS Cost Explorer estimates.EOFgit add README.mdgit commit -m "Update complete README with screenshots table"git push origin main
